@@ -1,0 +1,14 @@
+/*
+font-family: 'Montserrat', sans-serif;
+*/
+*,*::before,*::after{
+    margin: 0;padding: 0;box-sizing: 0;
+    font-family: "Montserrat",sans-serif;
+}
+
+body{
+    min-height: 100vh;
+    width: 100vw;
+    display: grid;
+    place-items: center;
+}
